@@ -64,3 +64,44 @@
 
 </body>
 </html>
+	
+	
+	
+	
+	<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<body bgcolor="#F6DDCC">
+	<h1>Շնորհակալություն գնումների համար</h1>
+	<br><br>
+	<h1><a href="/star/exam.html">Վերադարձ գլխավոր էջ</a></h1>
+</body>
+</html>
+	
+	
+	
+	
+	
+	
+	
+	.iii{
+
+
+	margin-right: 200px;
+	margin-top: -303px;
+}
+
+
+
+
+.www{
+	text-align: right;
+	margin-right: 203px;
+
+
+}
